@@ -23,12 +23,12 @@
 - 
 
 ### Corrected code
-(See `task1.py`)
+See `correct_task1.py`
 
-## 3) Test / Verification Plan
-- 
+> Note: The original AI-generated code is preserved in `task1.py`.
+ 
 
-## 4) Explanation Review & Rewrite
+## 3) Explanation Review & Rewrite
 ### AI-generated explanation (original)
 > This function calculates average order value by summing the amounts of all non-cancelled orders and dividing by the number of orders. It correctly excludes cancelled orders from the calculation.
 
@@ -38,7 +38,7 @@
 ### Rewritten explanation
 - 
 
-## 5) Final Judgment
+## 4) Final Judgment
 - Decision: Approve / Request Changes / Reject
 - Justification:
 - Confidence & unknowns:
@@ -62,12 +62,11 @@
 - 
 
 ### Corrected code
-(See `task2.py`)
+See `correct_task2.py`
 
-## 3) Test / Verification Plan
-- 
+> Note: The original AI-generated code is preserved in `task2.py`. 
 
-## 4) Explanation Review & Rewrite
+## 3) Explanation Review & Rewrite
 ### AI-generated explanation (original)
 > This function counts the number of valid email addresses in the input list. It safely ignores invalid entries and handles empty input correctly.
 
@@ -77,7 +76,7 @@
 ### Rewritten explanation
 - 
 
-## 5) Final Judgment
+## 4) Final Judgment
 - Decision: Approve / Request Changes / Reject
 - Justification:
 - Confidence & unknowns:
@@ -101,12 +100,11 @@
 - 
 
 ### Corrected code
-(See `task3.py`)
+See `correct_task3.py`
 
-## 3) Test / Verification Plan
-- 
+> Note: The original AI-generated code is preserved in `task3.py`.
 
-## 4) Explanation Review & Rewrite
+## 3) Explanation Review & Rewrite
 ### AI-generated explanation (original)
 > This function sums all positive numbers in the list and safely ignores invalid values.
 
@@ -116,7 +114,7 @@
 ### Rewritten explanation
 - 
 
-## 5) Final Judgment
+## 4) Final Judgment
 - Decision: Approve / Request Changes / Reject
 - Justification:
 - Confidence & unknowns:
